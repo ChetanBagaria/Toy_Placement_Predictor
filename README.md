@@ -1,6 +1,6 @@
 # Placement Predictor
 
-A basic machine learning project that predicts student placement outcomes using **Logistic Regression** trained on a toy placement dataset.
+A basic machine learning model that predicts student placement outcomes using **Logistic Regression** trained on a toy placement dataset.
 
 ## Features
 
